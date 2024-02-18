@@ -13,6 +13,9 @@ body{
     align-items: center;
     background:linear-gradient(45deg, #0a0a0a, #3a4452 ) ;
 }
+.header h1{
+    text-align: center;
+}
 .Calculator{
     border: 1px solid #737373;
     padding: 20px;
